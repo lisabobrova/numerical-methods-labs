@@ -22,4 +22,4 @@ Implementation and analysis of the β-method for scalar and systems of initial v
   
 ## Context
 
-These notebooks were completed as part of university coursework in numerical methods.
+These notebooks were completed as part of university coursework in numerical mathematics.
